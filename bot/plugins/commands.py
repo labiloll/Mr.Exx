@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQ
 from bot import Translation, LOGGER # pylint: disable=import-error
 from bot.database import Database # pylint: disable=import-error
 
-db = Database()
+db = Database(@ചിത്രശലഭങ്ങളുടെ വീട് 🧚‍♀🧚‍♀🧚‍♀)
 
 @Client.on_message(filters.command(["start"]) & filters.private, group=1)
 async def start(bot, update):
