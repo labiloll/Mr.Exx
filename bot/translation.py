@@ -5,9 +5,10 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+മനുഷ്യനല്ലെ പുള്ളെ
+              എന്നാ ചോയ്ക്ക്
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me To Your Group And Channel And Connect Them And See My Pevers �🔥🔥🔥🔥🔥
 
 For More Details Click Help Button Below..
 @CrazyBotsz
@@ -47,7 +48,9 @@ For More Details Click Help Button Below..
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
+    നുമ്മ Mr.X 
+നിങ്ങ ചോയ്ക്കി 
+നുമ്മക്ക് ഒപ്പിക്കാ
 <b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
